@@ -22,4 +22,4 @@ The housing and mount for the sensor are 3D printed, the stl files were download
 Sensor housing: https://www.thingiverse.com/thing:35398  
 Servo mount: https://www.thingiverse.com/thing:4408418  
 
-![alt text](https://imgur.com/vjuAugw)
+[Imgur](https://imgur.com/vjuAugw)
