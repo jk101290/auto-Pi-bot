@@ -4,7 +4,9 @@ self navigating pi robot
 This was made in raspbian buster lite 
 
 requires pigpio library installed and the daemon running: http://abyz.me.uk/rpi/pigpio/download.html  
-the adafruit motorkit library is also required: https://learn.adafruit.com/adafruit-dc-and-stepper-motor-hat-for-raspberry-pi/installing-software
+the adafruit motorkit library is also required: https://learn.adafruit.com/adafruit-dc-and-stepper-motor-hat-for-raspberry-pi/installing-software  
+
+the script is ran in python3 depends on sonar_trigger_echo.py from the pigpio library
 
 Hardware:  
 Raspberry Pi Zero W  
@@ -20,4 +22,4 @@ The housing and mount for the sensor are 3D printed, the stl files were download
 Sensor housing: https://www.thingiverse.com/thing:35398  
 Servo mount: https://www.thingiverse.com/thing:4408418  
 
-![alt text](https://drive.google.com/file/d/1NUxGjmPbz9WVxt2aPGXFRNOodYQoTxvK/view?usp=sharing)
+![alt text](https://imgur.com/vjuAugw)
