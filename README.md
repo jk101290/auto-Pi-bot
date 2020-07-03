@@ -30,8 +30,8 @@ Sensor housing: https://www.thingiverse.com/thing:35398
 Servo mount: https://www.thingiverse.com/thing:4408418  
 Display holder: https://www.thingiverse.com/thing:4490552
 
-![picture](20200628_172526.jpg)
+![picture](img/20200628_172526.jpg)
 Format: ![Alt Text](url)  
 
-![picture2](20200702_212620.jpg)
+![picture2](img/20200702_212620.jpg)
 Format: ![Alt Text](url)
