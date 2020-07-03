@@ -16,7 +16,7 @@ Hardware:
 Raspberry Pi Zero W  
 Adafruit DC motor bonnet  
 Waveshare V2 2.13 in E-ink display  
-(See waveshare wiki for wiring and other documentation: https://www.waveshare.com/wiki/Main_Page
+(See waveshare wiki for wiring and other documentation: https://www.waveshare.com/wiki/Main_Page  
 Ultrasonic sensor w/ 1k and 2k ohm resistors on the echo line  
 1 micro servo (for sensor)  
 4 dc motors + wheels  
