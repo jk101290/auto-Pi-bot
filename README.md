@@ -5,19 +5,18 @@ The code is ran in python3 on raspbian buster
 
 requires pigpio library installed and the daemon running: http://abyz.me.uk/rpi/pigpio/download.html  
 the adafruit motorkit library is also required: https://learn.adafruit.com/adafruit-dc-and-stepper-motor-hat-for-raspberry-pi/installing-software  
-requires config scripts for waveshare 2.13 inch e-ink display
 
-
-the script is ran in python3 and depends on:   
+Dependent scripts:     
 
 sonar_trigger_echo.py from the pigpio library  
 epd2in13.py and epdconfig.py from waveshare's library 
-(these are included in this repo)
+(these are included in this repo)  
 
 Hardware:  
 Raspberry Pi Zero W  
 Adafruit DC motor bonnet  
 Waveshare V2 2.13 in E-ink display  
+(See waveshare wiki for wiring and other documentation: https://www.waveshare.com/wiki/Main_Page
 Ultrasonic sensor w/ 1k and 2k ohm resistors on the echo line  
 1 micro servo (for sensor)  
 4 dc motors + wheels  
