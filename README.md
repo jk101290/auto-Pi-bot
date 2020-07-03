@@ -25,3 +25,5 @@ The housing and mount for the sensor and the housing for the display are 3D prin
 Sensor housing: https://www.thingiverse.com/thing:35398  
 Servo mount: https://www.thingiverse.com/thing:4408418  
 Display holder: https://www.thingiverse.com/thing:4490552
+
+(20200628_172526.jpg)
