@@ -8,7 +8,10 @@ the adafruit motorkit library is also required: https://learn.adafruit.com/adafr
 requires config scripts for waveshare 2.13 inch e-ink display
 
 
-the script is ran in python3 depends on sonar_trigger_echo.py from the pigpio library
+the script is ran in python3 and depends on: 
+sonar_trigger_echo.py from the pigpio library  
+epd2in13.py and epdconfig.py from waveshare's library 
+(these are included in this repo)
 
 Hardware:  
 Raspberry Pi Zero W  
