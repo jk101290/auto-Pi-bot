@@ -16,7 +16,8 @@ epd2in13.py and epdconfig.py from waveshare's library
 
 Hardware:  
 Raspberry Pi Zero W  
-Adafruit DC motor bonnet
+Adafruit DC motor bonnet  
+
 Waveshare V2 2.13 in E-ink display
 Ultrasonic sensor w/ 1k and 2k ohm resistors on the echo line  
 1 micro servo (for sensor)  
