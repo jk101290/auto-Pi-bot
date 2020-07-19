@@ -4,7 +4,9 @@ self navigating pi robot
 The code is ran in python3 on raspbian buster 
 
 requires pigpio library installed and the daemon running: http://abyz.me.uk/rpi/pigpio/download.html  
-the adafruit motorkit library is also required: https://learn.adafruit.com/adafruit-dc-and-stepper-motor-hat-for-raspberry-pi/installing-software  
+the adafruit motorkit library is also required: https://learn.adafruit.com/adafruit-dc-and-stepper-motor-hat-for-raspberry-pi/installing-software
+follow the instructions here to install dependancies for the waveshare e-ink display: https://www.waveshare.com/wiki/2.13inch_e-Paper_HAT  
+
 
 Dependent scripts:     
 
